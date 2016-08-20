@@ -1,0 +1,14 @@
+layout_spectrum: 0.2955795149318874
+typography_spectrum: 0.447763261385262
+color:
+  brandStrength: 0.08425416867248714
+  lightness: 0.03844542149454355
+  saturation: 0.04030371527187526
+  rhythmicContrast: 0.5918449820019305
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: ASTRONAUT
